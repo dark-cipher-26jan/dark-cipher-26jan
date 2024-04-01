@@ -1,7 +1,7 @@
 ![logo](https://github.com/dark-cipher-26jan/dark-cipher-26jan/blob/main/Untitled%20(1).png)
 <h1 align="center">Hi 👋, I'm Anuz Yadav</h1>
 <h3 align="center">Innovation at the Intersection of Hacking & Coding...</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/dark-cipher-26jan/dark-cipher-26jan/blob/main/loogo.gif"> 
+<img align="right" alt="coding" width="400" src="https://github.com/dark-cipher-26jan/dark-cipher-26jan/blob/main/dark.gif"> 
 
 - 🔭 I’m currently working on [My Office Genie](https://myofficegenie.com/)
 
