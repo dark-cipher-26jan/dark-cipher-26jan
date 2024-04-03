@@ -3,15 +3,15 @@
 <h3 align="center">Innovation at the Intersection of Hacking & Coding...</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/dark-cipher-26jan/dark-cipher-26jan/blob/main/dark.gif"> 
 
-- 🔭 I’m currently working on [Auxilio Business Solutions](https://auxiliosolutions.com/)
+- 🔭 I’m currently working For:- [Auxilio Business Solutions](https://auxiliosolutions.com/)
 
-- 🌱 I’m currently learning **AI, Machine Learning, and diving deeper into coding to pioneer the next wave of technological innovation.**
+- 🌱 I’m currently learning:-**AI, Machine Learning, and diving deeper into coding to pioneer the next wave of technological innovation.**
 
-- 💬 Ask me about **Hacking techniques, IoT advancements, Robotics intricacies, and solving coding challenges.**
+- 💬 Ask me about:- **Hacking techniques, IoT advancements, Robotics intricacies, and solving coding challenges.**
 
-- 📫 How to reach me **darkcipher26jan2024@gmail.com**
+- 📫 How to reach me:- **darkcipher26jan2024@gmail.com**
 
-- ⚡ Fun fact **I'm a hacker by night, coding wizard by day—mastering the art of breaking and building in the digital realm!**
+- ⚡ Fun fact:- **I'm a hacker by night, coding wizard by day—mastering the art of breaking and building in the digital realm!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
