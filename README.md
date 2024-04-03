@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working For:- [Auxilio Business Solutions](https://auxiliosolutions.com/)
 
-- 🌱 I’m currently learning:-**AI, Machine Learning, and diving deeper into coding to pioneer the next wave of technological innovation.**
+- 🌱 I’m currently learning:- **AI, Machine Learning, and diving deeper into coding to pioneer the next wave of technological innovation.**
 
 - 💬 Ask me about:- **Hacking techniques, IoT advancements, Robotics intricacies, and solving coding challenges.**
 
