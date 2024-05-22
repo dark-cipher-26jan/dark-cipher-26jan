@@ -3,7 +3,7 @@
 <h3 align="center">Innovation at the Intersection of Hacking & Coding...</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/dark-cipher-26jan/dark-cipher-26jan/blob/main/dark.gif"> 
 
-- 🔭 I’m currently working For:- [Auxilio Business Solutions](https://auxiliosolutions.com/)
+- 🔭 I’m currently working For:- [J&T Associates](https://jnt.com.np/)
 
 - 🌱 I’m currently learning:- **AI, Machine Learning, and diving deeper into coding to pioneer the next wave of technological innovation.**
 
